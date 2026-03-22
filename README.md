@@ -120,6 +120,7 @@
 - LinkedIn: https://www.linkedin.com/in/manichandramaddi/
 - Email: manichandramaddi405@gmail.com
 - Leetcode: https://leetcode.com/u/manichandramaddi73/
+- X : https://x.com/Manichandra2318
 
 ---
 
