@@ -1,4 +1,4 @@
-# Hi, I'm Mani 👋
+# Hi, I'm Manichandra 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Software+Engineer;Backend+Engineer;Spring+Boot+Developer;Building+Scalable+AI+Systems&center=true&width=550&height=45">
