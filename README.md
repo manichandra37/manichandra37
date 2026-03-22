@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Mani 👋
 
-<!--
-**manichandra37/manichandra37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer focused on Java, Spring Boot, and scalable APIs.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Java
+- Spring Boot
+- MySQL
+- REST APIs
+- Hibernate / JPA
+- Git / GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- System Design
+- Networking
+- AI integration in backend systems
+
+## 🔥 Featured Projects
+- Transactional Order Processing System
+- Hotel Price Tracking
+- Multi-language Code Review Agent
+
+## 📫 Contact
+- LinkedIn: www.linkedin.com/in/manichandramaddi
+- Email: manichandramaddi405@gmail.com
