@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Software+Engineer;Backend+Engineer;Spring+Boot+Developer;Building+Scalable+AI+Systems&center=true&width=550&height=45">
 </p>
+
 ---
+
 ## 🚀 About Me
 - AI Software Engineer with 3+ years of experience
 - Building intelligent backend systems & AI-powered microservices
