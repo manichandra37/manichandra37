@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manichandra37&theme=tokyonight" />
+  <img src="https://vercel.app" alt="GitHub Streak" height="180" />
 </p>
 
 ---
